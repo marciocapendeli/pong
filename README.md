@@ -1,2 +1,2 @@
 # pong
-jogo pong
+projeto de criação do jogo pong
